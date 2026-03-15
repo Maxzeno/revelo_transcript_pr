@@ -1,0 +1,12 @@
+[MODEL B]:
+
+[MY CHOOSEN STRENGTH]
+...
+
+[MY CHOOSEN CONS - WEAKNESSES]:
+
+[CODE]
+...
+
+[CODE2]
+...
